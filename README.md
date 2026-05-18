@@ -1,2 +1,22 @@
 # Analisi-Energetica-2025
-Analisi produzione energetica 2025 per fonte, dati Terna
+
+Analisi della generazione elettrica italiana per fonte primaria, basata sui dati ufficiali Terna relativi all'anno 2025.
+
+## Dataset
+Dati orari (granularità 15 minuti) scaricati dal portale open data di Terna, contenenti la generazione effettiva in GW suddivisa per fonte primaria: Termoelettrico, Idroelettrico, Fotovoltaico, Eolico, Geotermico, Autoconsumo.
+
+## Strumenti
+- Python, Pandas, NumPy, Matplotlib, Seaborn
+
+## Analisi
+- Pulizia e conversione dei dati da GW a GWh
+- Generazione totale annuale per fonte
+- Profilo medio giornaliero per fonte (24 ore)
+
+## Risultati principali
+- La quota di energia rinnovabile sul totale nazionale nel 2025 è pari al **38.5%**, in linea con i dati Terna e a conferma della crescita del fotovoltaico rispetto agli anni precedenti
+- Il profilo giornaliero evidenzia il ruolo complementare del termoelettrico e dell'idroelettrico nella compensazione della variabilità delle fonti rinnovabili
+- L'eolico mostra una produzione pressoché costante nelle 24 ore, rendendolo una fonte strategica per la stabilità della rete
+
+## Fonte dati
+[Terna - Dati Generazione](https://dati.terna.it)
