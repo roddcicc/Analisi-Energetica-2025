@@ -21,7 +21,7 @@ Dati orari (granularità 15 minuti) scaricati dal portale open data di Terna, co
 ## Visualizzazioni
 | Mix Energetico 2025 | Profilo Medio Giornaliero |
 | :---: | :---: |
-| <img width="3480" height="1628" alt="profilo_orario" src="https://github.com/user-attachments/assets/f023c1f5-f75f-4142-84d6-dfe5436aacf4" /> |<img width="2631" height="1638" alt="mix_energetico" src="https://github.com/user-attachments/assets/855ca4cb-4c98-40fa-b68f-04ce610ab6cb" /> |
+|  <img width="2631" height="1638" alt="mix_energetico" src="https://github.com/user-attachments/assets/855ca4cb-4c98-40fa-b68f-04ce610ab6cb" />  | <img width="3480" height="1628" alt="profilo_orario" src="https://github.com/user-attachments/assets/f023c1f5-f75f-4142-84d6-dfe5436aacf4" /> |
 ## Fonte dati
 [Terna - Dati Generazione](https://dati.terna.it)
 
