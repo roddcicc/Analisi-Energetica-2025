@@ -19,8 +19,12 @@ Dati orari (granularità 15 minuti) scaricati dal portale open data di Terna, co
 - L'eolico mostra una produzione pressoché costante nelle 24 ore, ciò è dovuto alla distribuzione degli impianti che compensa l'intermittenza del vento
 
 ## Visualizzazioni
-<img width="876" height="547" alt="mix_energetico" src="https://github.com/user-attachments/assets/2b75deb1-6094-4b8f-b980-c65c7a49c7f7" />
-<img width="1161" height="545" alt="profilo_orario" src="https://github.com/user-attachments/assets/48121c95-45bc-4a8e-b257-7e9bfce7bb76" />
-
+| Mix Energetico 2025 | Profilo Medio Giornaliero |
+| :---: | :---: |
+| <img width="3480" height="1628" alt="profilo_orario" src="https://github.com/user-attachments/assets/f023c1f5-f75f-4142-84d6-dfe5436aacf4" /> |<img width="2631" height="1638" alt="mix_energetico" src="https://github.com/user-attachments/assets/855ca4cb-4c98-40fa-b68f-04ce610ab6cb" /> |
 ## Fonte dati
 [Terna - Dati Generazione](https://dati.terna.it)
+
+
+
+
